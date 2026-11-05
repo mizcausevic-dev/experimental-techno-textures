@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/experimental-techno-textures-simple-synth-preview.mp3",
+  "preview_sha256": "eb2df61a261808d7e03f37b2a3905fd976213adc40d635f141aad846fe1b9837",
+  "source_midi_path": "midi/z2401-experimental-techno-textures-opening/z2401-experimental-techno-textures-opening-combined.mid",
+  "source_midi_sha256": "be2e95f782ff4ff5ded8b0a43c3def614176579a0420ad2cb0990a12430ed657",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z2401",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.101694,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

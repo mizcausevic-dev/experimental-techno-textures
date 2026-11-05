@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:50.004998+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/chord_pulse.mid",
+      "bytes": 1255,
+      "sha256": "a62322e5883c8745097ef157575903afb0a2409cecb177a24c43df11cddf42c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "815d3145532273e9246607e78663ce1a1c203d5674d6d953c0a528b7c70007a0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "773f1fd05e60c807b0294849ed03b4563a9a79b4bdf893761a7b5c231efa545d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "1d676e0f9f474249a0f8ff811728c12edcb6101b769b5a08bd434b2198ebea04",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24cfae93e5e93fcfc61b8f7977c73780919a2d8eb8ff6a2dfc5e780d4fba9bcd",
+      "errors": []
+    },
+    {
+      "path": "midi/z2401-experimental-techno-textures-opening/z2401-experimental-techno-textures-opening-combined.mid",
+      "bytes": 6036,
+      "sha256": "be2e95f782ff4ff5ded8b0a43c3def614176579a0420ad2cb0990a12430ed657",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/chord_pulse.mid",
+      "bytes": 1255,
+      "sha256": "f9c22e1c1dca816e657875e48ab59775cf66185c03d339d12304af11c3bd2f08",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ddd9b11e02e520bf80d6f91e1937a41c46db813e57deeeaa11cd5af49f508d80",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "fa7d7b277cf8637d87ae22939b597737e145bdf2a78159c381949b9c0f57151e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "372ed2910dce3246a192eaf82bd9a8a5542272c78476c8365d3e3cbfc8dedac1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "882ccc1cf68325ef1958f6f3bf1ce5421b1c00109454117353b03f7501bc2ae0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2402-experimental-techno-textures-variation/z2402-experimental-techno-textures-variation-combined.mid",
+      "bytes": 6036,
+      "sha256": "ea5aa5b2d0b9924cbdcb01092e1d85cbba55abf268407a5922f9b84411edd3c0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/chord_pulse.mid",
+      "bytes": 1255,
+      "sha256": "eaa7ad5f16e9c161a2c76ca727954687af21f8723c1b99f9d209314838e74ed7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "67a65ea7bcdfa5ea113fcc3272685d182659b5086cf3beb8d28c1fdc068356ff",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "0f8ae8a14e7f8651a171d4cc8c2ca554259d79922f598a9bfb13dff36c1b3828",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "3252161e2b606c2025100e886953ce1cb9e0d606456c478ebed2673cbbcdfb75",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f03a6e08c4775ec7baa6a8c0da22b2de590e40946a20883a857451d2eba013e8",
+      "errors": []
+    },
+    {
+      "path": "midi/z2403-experimental-techno-textures-contrast/z2403-experimental-techno-textures-contrast-combined.mid",
+      "bytes": 6002,
+      "sha256": "60f964b3e419f328aa472e73bb69256ee72252ae6dbed7f6054f1156656bbd98",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/chord_pulse.mid",
+      "bytes": 1255,
+      "sha256": "3b7e9e2148b7fe69c02b8f0545bae722a496a84cd160199bb5f64ee4ad509d9f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "2f2541e511e9726c4ac4f7b9624d6624f3e3d99f60ccb52dff820e89de703a03",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "734b43883f2aa5cc28030c4d174f1eff1050d842891836b8947d7a5de6515354",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "029e1ef205fb7bc3e96c2beb312f826e48a6607acd42ed18dc9b05189b6d6368",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "e4213a775cad598a45f1eba4d956d145210a74c68824df219daadc106b91b7f8",
+      "errors": []
+    },
+    {
+      "path": "midi/z2404-experimental-techno-textures-return/z2404-experimental-techno-textures-return-combined.mid",
+      "bytes": 6002,
+      "sha256": "10110b3180e8e1f50034123d31bf2c092d4edfc0ff15166499ac5bf7f2763347",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

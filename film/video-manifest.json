@@ -1,0 +1,26 @@
+{
+  "title": "Experimental Techno Textures",
+  "study": "z2401",
+  "bpm": 132,
+  "source_audio": "preview/experimental-techno-textures-simple-synth-preview.mp3",
+  "source_audio_sha256": "eb2df61a261808d7e03f37b2a3905fd976213adc40d635f141aad846fe1b9837",
+  "source_midi": "midi/z2401-experimental-techno-textures-opening/z2401-experimental-techno-textures-opening-combined.mid",
+  "source_midi_sha256": "be2e95f782ff4ff5ded8b0a43c3def614176579a0420ad2cb0990a12430ed657",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "4cb3f5efabb5c9473adf6666e9150f6a5c8b25a4b11dd3ab9078b85179222d09",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5b3d33eb59a6c32e334e69b34436f13c0dd87af3a537817bcf6429dc0bbbe330",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "5a5d56fc4cd6e23d21044835c644cb0e20a4da5bcd3b87fcfefe9928198bee40",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
