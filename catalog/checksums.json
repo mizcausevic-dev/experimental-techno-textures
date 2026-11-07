@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/experimental-techno-textures-midi.zip",
-      "bytes": 32163,
-      "sha256": "bff3e75c4dd4ab0bf1698f2de9344cc57642672ec2552b08af4e3510086d75ca"
+      "bytes": 33150,
+      "sha256": "39aeea852a285138d5f2418eb1be1f9e8678ab26de04bd091d138833834d75ba"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10116,
-      "sha256": "4309656581edc09112f8873b3e760ec8da5d9c5a509b98befe3e54d6776c11aa"
+      "bytes": 10306,
+      "sha256": "4fe7628ca519da2a30cad318b2f98f4dce26aa86aad42ee56185084963a34f05"
     },
     {
       "path": "midi/z2401-experimental-techno-textures-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "10110b3180e8e1f50034123d31bf2c092d4edfc0ff15166499ac5bf7f2763347"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/experimental-techno-textures-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "eb2df61a261808d7e03f37b2a3905fd976213adc40d635f141aad846fe1b9837"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4025,
-      "sha256": "efa3ea855c1c855c2531eef52f714bc873053d28b7f197f90e8e9b23aab73f1e"
+      "bytes": 4140,
+      "sha256": "c212b554e51d18be84579d7cd6e6b9c1f4ad0e4f6bef87f1829ccd841ad32351"
     },
     {
       "path": "social/instagram/caption.txt",
